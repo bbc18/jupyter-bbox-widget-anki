@@ -1,6 +1,8 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gereleth/jupyter-bbox-widget/HEAD?filepath=examples%2Fintroduction.ipynb&urlpath=tree%2Fexamples%2Fintroduction.ipynb)
 
-# jupyter\_bbox\_widget
+# jupyter\_bbox\_widget\anki
+
+This was adapted from gereleth/jupyter-bbox-widget and robxcalib3r/Image2Anki
 
 A Jupyter widget for annotating images with bounding boxes. **See a [live demo on Binder](https://mybinder.org/v2/gh/gereleth/jupyter-bbox-widget/HEAD?filepath=examples%2Fintroduction.ipynb&urlpath=tree%2Fexamples%2Fintroduction.ipynb).**
 
